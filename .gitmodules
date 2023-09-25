@@ -1,0 +1,18 @@
+[submodule "iplant"]
+	path = iplant
+	url = https://github.com/Elysio3/iplant
+[submodule "ort-tower-defense"]
+	path = ort-tower-defense
+	url = https://github.com/Elysio3/ort-tower-defense
+[submodule "TestUnitaires-MarsRover"]
+	path = TestUnitaires-MarsRover
+	url = https://github.com/Elysio3/TestUnitaires-MarsRover
+[submodule "ort-git"]
+	path = ort-git
+	url = https://github.com/Elysio3/ort-git
+[submodule "TestUnitaires"]
+	path = TestUnitaires
+	url = https://github.com/Elysio3/TestUnitaires
+[submodule "Systemes-embarques"]
+	path = Systemes-embarques
+	url = https://github.com/Elysio3/Systemes-embarques
